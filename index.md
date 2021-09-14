@@ -1,4 +1,4 @@
-## Minimalistic Writing from PDF Literature Scans
+## Clean Text for PDF Literature Scans
 
 The purpose of this project is to create a lightweight application, which converts PDF's containing text to more readable text files that remove excess information—i.e. sans serif, sans long parenthetical citations—and maintain helpful information, such as headers and indentation. 
 
