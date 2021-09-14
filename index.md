@@ -4,7 +4,7 @@ The purpose of this project is to create a lightweight application, which conver
 
 The main tasks of the application will be to read in text from images using optical character recognition (OCR), detect the difference between parenthetical citations and remarks that happen to be in parentheses, and output a nicely formatted document in editable sans serif text with parenthetical citations omitted.
 
-The result should be a clean solution to turning messy and difficult-to-read PDF scans of books into more legible and excess-free documents.
+The result should be a solution for turning messy and difficult-to-read PDF scans of books into clean, legible, and excess-free documents.
 
 ### Project Goals
 
