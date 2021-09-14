@@ -9,9 +9,9 @@ The result should be a clean solution to turning messy and difficult-to-read PDF
 ### Project Goals
 
 1. Obtain/create a dataset for:
-    \n\t(a) OCR
-    \n\t(b) parenthetical citation vs. remark
-    \n\t(c) header vs. body
+      (a) OCR
+      (b) parenthetical citation vs. remark
+      (c) header vs. body
 2. Train a neural network detect the above differences.
 3. Implement formatting for output document.
 
