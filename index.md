@@ -14,4 +14,4 @@ The result should be a clean solution to turning messy and difficult-to-read PDF
 
 ### Challenges
 
-1. How to deal with important non-text information—e.g. images, tables, graphs?
+1. How to deal with important non-text information—e.g. images, tables, graphs.
