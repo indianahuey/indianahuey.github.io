@@ -1,10 +1,10 @@
-## Clean Text for PDF Literature Scans
+## Clean and Filtered Text from PDF Book Scans
 
-The purpose of this project is to create a lightweight application, which converts PDF's of text to more readable text files that remove excess information—i.e. sans serif, sans long parenthetical citations—while maintaining helpful information, such as headers and indentation. 
+The purpose of this project is to create a lightweight application, which converts PDFs of text to more readable text files that remove excess information—i.e. sans serif, sans long parenthetical citations—while maintaining helpful information, such as headers and indentation. 
 
 The main tasks of the application will be to read in text from images using optical character recognition (OCR), detect the difference between parenthetical citations and remarks that happen to be in parentheses, and output a nicely formatted document in editable sans serif text with parenthetical citations omitted.
 
-The result should be a clean solution to turning messy and difficult-to-read PDF scans of literature into more legible and excess-free writing.
+The result should be a clean solution to turning messy and difficult-to-read PDF scans of books into more legible and excess-free writing.
 
 ### Project Goals
 
