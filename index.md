@@ -8,8 +8,8 @@ The result should be a clean solution to turning messy and difficult-to-read PDF
 
 ### Project Goals
 
-1. Obtain/create a dataset for: a) OCR, b) parenthetical citation vs. remark, c) header vs. body
-2. Train a neural network to detect the above differences.
+1. Obtain/create a dataset for: OCR, parenthetical citation vs. remark, header vs. body
+2. Train a neural network to detect the above classes.
 3. Implement formatting for output documents.
 
 ### Challenges
