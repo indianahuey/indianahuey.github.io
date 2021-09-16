@@ -19,4 +19,7 @@ The result should be a solution for turning messy and difficult-to-read PDF scan
 
 1. How to deal with important non-text information—e.g. images, tables, graphs.
 
+
+
+
 Author: Indiana
