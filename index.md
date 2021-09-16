@@ -1,5 +1,7 @@
 ## Sans: Clean and Filtered Text from PDF Book Scans
 
+
+
 ![](/example.png)
 
 The purpose of this project is to create a lightweight application, which converts PDFs of text to more readable text files that remove excess information—i.e. serifs and long parenthetical citations—while maintaining helpful information, such as headers and indentation. 
